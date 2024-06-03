@@ -17,6 +17,7 @@ let text = `# Hi there 👋
 </p>
 
 ## Contact me
+hyeyum0312@gmail.com
 
 ## 📕 Latest Blog Posts
 
